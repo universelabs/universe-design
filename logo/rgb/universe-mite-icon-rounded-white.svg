@@ -1,3 +1,49 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d6ac5ad3a60ababc60ec5d0585b73d3717813b238e537694aa382eb450845a1c
-size 4403
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>logo/rgb/universe-mite-icon-rounded-white</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo/rgb/universe-mite-icon-rounded-white">
+            <g id="universe-mite-icon-rounded-white">
+                <g>
+                    <path d="M256,76.7776 C256,60.4956 255.612,36.2776 240.455,20.4006 C225.83,5.0806 211.38,-0.0004 180.65,-0.0004 L75.35,-0.0004 C44.62,-0.0004 30.17,5.0806 15.545,20.4006 C0.388,36.2776 0,60.4956 0,76.7776 L0,179.2226 C0,195.5046 0.388,219.7226 15.545,235.5996 C30.17,250.9196 44.62,255.9996 75.35,255.9996 L180.65,255.9996 C211.38,255.9996 225.83,250.9196 240.455,235.5996 C255.612,219.7226 256,195.5046 256,179.2226 L256,76.7776 Z" id="Fill-1" fill="#FFFFFF"></path>
+                    <g id="universe-bug-diamonds-lrg" transform="translate(16.000000, 21.000000)" fill="#000000">
+                        <polygon id="Fill-4" points="11.5 40 0 47 11.5 54 23 47"></polygon>
+                        <polygon id="Fill-6" points="51.5 40 40 47 51.5 54 63 47"></polygon>
+                        <polygon id="Fill-8" points="91.5 40 80 47 91.5 54 103 47"></polygon>
+                        <polygon id="Fill-10" points="131.5 40 120 47 131.5 54 143 47"></polygon>
+                        <polygon id="Fill-12" points="171.5 40 160 47 171.5 54 183 47"></polygon>
+                        <polygon id="Fill-14" points="211.5 40 200 47 211.5 54 223 47"></polygon>
+                        <polygon id="Fill-16" points="11.5 80 0 87 11.5 94 23 87"></polygon>
+                        <polygon id="Fill-18" points="51.5 80 40 87 51.5 94 63 87"></polygon>
+                        <polygon id="Fill-20" points="91.5 80 80 87 91.5 94 103 87"></polygon>
+                        <polygon id="Fill-22" points="131.5 80 120 87 131.5 94 143 87"></polygon>
+                        <polygon id="Fill-24" points="171.5 80 160 87 171.5 94 183 87"></polygon>
+                        <polygon id="Fill-26" points="211.5 80 200 87 211.5 94 223 87"></polygon>
+                        <polygon id="Fill-28" points="11.5 120 0 127 11.5 134 23 127"></polygon>
+                        <polygon id="Fill-30" points="51.5 120 40 127 51.5 134 63 127"></polygon>
+                        <polygon id="Fill-32" points="91.5 120 80 127 91.5 134 103 127"></polygon>
+                        <polygon id="Fill-34" points="131.5 120 120 127 131.5 134 143 127"></polygon>
+                        <polygon id="Fill-36" points="171.5 120 160 127 171.5 134 183 127"></polygon>
+                        <polygon id="Fill-38" points="211.5 120 200 127 211.5 134 223 127"></polygon>
+                        <polygon id="Fill-40" points="11.5 160 0 167 11.5 174 23 167"></polygon>
+                        <polygon id="Fill-42" points="51.5 160 40 167 51.5 174 63 167"></polygon>
+                        <polygon id="Fill-44" points="91.5 160 80 167 91.5 174 103 167"></polygon>
+                        <polygon id="Fill-46" points="131.5 160 120 167 131.5 174 143 167"></polygon>
+                        <polygon id="Fill-48" points="171.5 160 160 167 171.5 174 183 167"></polygon>
+                        <polygon id="Fill-50" points="211.5 160 200 167 211.5 174 223 167"></polygon>
+                        <polygon id="Fill-52" points="51.5 200 40 207 51.5 214 63 207"></polygon>
+                        <polygon id="Fill-54" points="91.5 200 80 207 91.5 214 103 207"></polygon>
+                        <polygon id="Fill-56" points="131.5 200 120 207 131.5 214 143 207"></polygon>
+                        <polygon id="Fill-58" points="171.5 200 160 207 171.5 214 183 207"></polygon>
+                        <polygon id="Fill-60" points="51.5 0 40 7 51.5 14 63 7"></polygon>
+                        <polygon id="Fill-62" points="91.5 0 80 7 91.5 14 103 7"></polygon>
+                        <polygon id="Fill-64" points="131.5 0 120 7 131.5 14 143 7"></polygon>
+                        <polygon id="Fill-66" points="171.5 0 160 7 171.5 14 183 7"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,3 +1,49 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:03d829ffaf9c5ec3f3521df42765c05132e073dfd1e9cd8313137130fe290d67
-size 3869
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>logo/rgb/universe-bug-icon-squared</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo/rgb/universe-bug-icon-squared">
+            <g id="universe-bug-icon-squared">
+                <g>
+                    <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="0" y="0" width="256" height="256"></rect>
+                    <g id="universe-bug-diamonds" transform="translate(20.000000, 23.000000)" fill="#FFFFFF">
+                        <polygon id="Fill-4" points="88 10 80 5 88 0 96 5"></polygon>
+                        <polygon id="Fill-6" points="48 10 40 5 48 0 56 5"></polygon>
+                        <polygon id="Fill-8" points="128 10 120 5 128 0 136 5"></polygon>
+                        <polygon id="Fill-10" points="168 10 160 5 168 0 176 5"></polygon>
+                        <polygon id="Fill-12" points="8 50 0 45 8 40 16 45"></polygon>
+                        <polygon id="Fill-14" points="48 50 40 45 48 40 56 45"></polygon>
+                        <polygon id="Fill-16" points="88 50 80 45 88 40 96 45"></polygon>
+                        <polygon id="Fill-18" points="128 50 120 45 128 40 136 45"></polygon>
+                        <polygon id="Fill-20" points="168 50 160 45 168 40 176 45"></polygon>
+                        <polygon id="Fill-22" points="208 50 200 45 208 40 216 45"></polygon>
+                        <polygon id="Fill-24" points="8 90 0 85 8 80 16 85"></polygon>
+                        <polygon id="Fill-26" points="48 90 40 85 48 80 56 85"></polygon>
+                        <polygon id="Fill-28" points="88 90 80 85 88 80 96 85"></polygon>
+                        <polygon id="Fill-30" points="128 90 120 85 128 80 136 85"></polygon>
+                        <polygon id="Fill-32" points="168 90 160 85 168 80 176 85"></polygon>
+                        <polygon id="Fill-34" points="208 90 200 85 208 80 216 85"></polygon>
+                        <polygon id="Fill-36" points="8 130 0 125 8 120 16 125"></polygon>
+                        <polygon id="Fill-38" points="48 130 40 125 48 120 56 125"></polygon>
+                        <polygon id="Fill-40" points="88 130 80 125 88 120 96 125"></polygon>
+                        <polygon id="Fill-42" points="128 130 120 125 128 120 136 125"></polygon>
+                        <polygon id="Fill-44" points="168 130 160 125 168 120 176 125"></polygon>
+                        <polygon id="Fill-46" points="208 130 200 125 208 120 216 125"></polygon>
+                        <polygon id="Fill-48" points="8 170 0 165 8 160 16 165"></polygon>
+                        <polygon id="Fill-50" points="48 170 40 165 48 160 56 165"></polygon>
+                        <polygon id="Fill-52" points="88 170 80 165 88 160 96 165"></polygon>
+                        <polygon id="Fill-54" points="128 170 120 165 128 160 136 165"></polygon>
+                        <polygon id="Fill-56" points="168 170 160 165 168 160 176 165"></polygon>
+                        <polygon id="Fill-58" points="208 170 200 165 208 160 216 165"></polygon>
+                        <polygon id="Fill-60" points="48 210 40 205 48 200 56 205"></polygon>
+                        <polygon id="Fill-62" points="88 210 80 205 88 200 96 205"></polygon>
+                        <polygon id="Fill-64" points="128 210 120 205 128 200 136 205"></polygon>
+                        <polygon id="Fill-66" points="168 210 160 205 168 200 176 205"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
