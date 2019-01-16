@@ -1,15 +1,21 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # support files
+
 brand/support
-docs/support
-illustrations/support
+
 logo/support
+
 meta/support
-meta-brand/support
-meta-flow-diagram/support
-meta-icons/support
-meta-ui-sketch-library/support
+meta/brand/support
+meta/icons/support
+meta/logo/support
+meta/meta-flow-diagram/support
+meta/meta-ui-sketch-library/support
+meta/social/support
+
 social/support
+
 templates/support
+
 universe.engineering/support
