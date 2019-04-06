@@ -1,11 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="320px" viewBox="0 0 320 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
-    <title>meta-bug-icon-rounded</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="meta-bug-icon-rounded" fill="#000000">
-            <path d="M280,111.978438 C280,96.7140625 279.63625,74.0096875 265.426563,59.125 C251.715625,44.7634375 238.16875,40 209.359375,40 L110.640625,40 C81.83125,40 68.284375,44.7634375 54.5734375,59.125 C40.36375,74.0096875 40,96.7140625 40,111.978438 L40,208.020625 C40,223.285938 40.36375,245.989375 54.5734375,260.874063 C68.284375,275.236562 81.83125,280 110.640625,280 L209.359375,280 C238.16875,280 251.715625,275.236562 265.426563,260.874063 C279.63625,245.989375 280,223.285938 280,208.020625 L280,111.978438 Z" id="Fill-1"></path>
-        </g>
-    </g>
-</svg>
+version https://git-lfs.github.com/spec/v1
+oid sha256:e84bc243685c2317839d031c30f4ec9a16d964baa56045093899bbe8affeb00b
+size 1061
