@@ -15,7 +15,7 @@ Universe Design uses Git LFS, an easy to setup and use tool for versioning desig
 ## Status
 
 [![Slack](https://img.shields.io/badge/Community-Join_the_Slack!-purple.svg?colorA=212121&colorB=3f46ad)](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE)
-[![Git LFS version](https://img.shields.io/badge/Git_LFS-v2.5.1-blue.svg?colorA=212121&colorB=007BFF)](https://git-lfs.github.com/)
+[![Git LFS version](https://img.shields.io/badge/Git_LFS-v2.8.0-blue.svg?colorA=212121&colorB=007BFF)](https://git-lfs.github.com/)
 
 
 ## Install Git LFS

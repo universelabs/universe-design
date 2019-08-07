@@ -84,6 +84,19 @@ Visit the [Getting started](/docs/getting-started.md) page for detailed instruct
 [![Repository Size](https://img.shields.io/github/repo-size/universelabs/universe-design.svg?label=Repository+Size&colorA=%23212121&colorB=%23007BFF)](https://github.com/universelabs/universe-design)
 
 
+## Meta & Meta UI
+
+### Meta
+Currently Meta focuses on simplifying and making typography easier for developers to design effective content. It also comes with a broad range color system to take away the pain of choosing colors.
+
+For detailed instructions on Meta Framework, visit the [Meta GitHub Repository](https://github.com/universelabs/meta).
+
+### Meta UI
+
+**Meta UI** is an open source [Sketch Shared Library](https://www.sketch.com/docs/libraries/shared-libraries) including Style Guide and Symbol resources for rapid prototyping in Sketch. The library allows developers to add the Meta Sketch Resource Library to their local Sketch Application. The library provides access to Meta styles, colors, type, components, and more. Once added, the Meta Sketch Resource Library syncs directly to Sketch Cloud. Sketch will notify users of any additions or updates.
+
+For detailed instructions on how to add Meta UI to your Sketch Libraries, visit the [Meta UI GitHub Repository](https://github.com/universelabs/meta-ui).
+
 
 
 
