@@ -37,7 +37,7 @@
 <br/>
 <p align="center">
   <a href="https://universe.engineering">
-    <img width="500" alt="Universe Design 2019-08-07 README Header" src="https://user-images.githubusercontent.com/1711854/62628317-11696c80-b8f9-11e9-846d-c856f2e43b53.png">
+    <img width="550" alt="Universe Design 2019-08-07 README Header" src="https://user-images.githubusercontent.com/1711854/62643949-150bec00-b917-11e9-9663-801c00018c7b.png">
   </a>
 </p>
 
