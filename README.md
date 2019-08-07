@@ -50,7 +50,7 @@ Join us in the journey by becoming a design contributor
 - [Quick start](#quick-start)
 - [Status](#status)
 - [Getting started](/docs/getting-started.md)
-- [Supporting Frameworks](#supporting-frameworks)
+- [Frameworks & libraries](#frameworks-libraries)
 - [Contributing](#contributing)
 - [Roadmap](#roadmap)
 - [Community](#community)
@@ -78,27 +78,80 @@ Visit the [Getting started](/docs/getting-started.md) page for detailed instruct
 [![Repository Size](https://img.shields.io/github/repo-size/universelabs/universe-design.svg?label=Repository+Size&colorA=%23212121&colorB=%23007BFF)](https://github.com/universelabs/universe-design)
 
 
-## Supporting Frameworks
+## Frameworks & ibraries
 
 ### Meta
 Currently Meta focuses on simplifying and making typography easier for developers to design effective content. It also comes with a broad range color system to take away the pain of choosing colors.
 
-For detailed instructions on Meta Framework, visit the [Meta GitHub Repository](https://github.com/universelabs/meta).
+› For detailed instructions on Meta Framework, visit the [Meta GitHub Repository](https://github.com/universelabs/meta).
 
-### Meta UI
+### Meta UI (Sketch Library)
 
 **Meta UI** is an open source [Sketch Shared Library](https://www.sketch.com/docs/libraries/shared-libraries) including Style Guide and Symbol resources for rapid prototyping in Sketch. The library allows developers to add the Meta Sketch Resource Library to their local Sketch Application. The library provides access to Meta styles, colors, type, components, and more. Once added, the Meta Sketch Resource Library syncs directly to Sketch Cloud. Sketch will notify users of any additions or updates.
 
-For detailed instructions on how to add Meta UI to your Sketch Libraries, visit the [Meta UI GitHub Repository](https://github.com/universelabs/meta-ui).
+› For detailed instructions on how to add Meta UI to your Sketch Libraries, visit the [Meta UI GitHub Repository](https://github.com/universelabs/meta-ui).
 
-### UX FLow
+### UX FLow (Sketch Library)
 
 **UX Flow** is an open source [Sketch Shared Library](https://www.sketch.com/docs/libraries/shared-libraries) for wireframing &amp; user flows. Once installed, the **UX Flow** library syncs directly to Sketch Cloud. Users simply subscribe to **UX Flow** and Sketch will notify them of updates. No need to worry about version updates, etc.
 
-For detailed instructions on UX Flow, visit the [UX Flow GitHub Repository](https://github.com/universelabs/ux-flow).
+› For detailed instructions on UX Flow, visit the [UX Flow GitHub Repository](https://github.com/universelabs/ux-flow).
 
 
+## Contributing
 
+Please read through our [contributing guidelines](https://github.com/universelabs/universe/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+
+Moreover, if your pull request contains JavaScript patches or features, you
+must include relevant unit tests. All code should conform to the [Code Guidelines](https://github.com/universelabs/universe/blob/master/CONTRIBUTING.md#code-guidelines).
+
+
+## Roadmap
+
+Universe Labs' mission is to become the largest open source node and key management network.
+
+[› Universe Roadmap](https://github.com/universelabs/universe/blob/master/ROADMAP.md)
+
+View the Universe Roadmap to learn more about project overview, goals, execution to date, milestones, current tech stack, and more...
+
+
+## Community
+
+Get updates on Universe's development and chat with the project maintainers and community members.
+
+- Subscribe to the [Universe Newsletter](http://universe.engineering/subscribe)
+- [Star this repo](https://github.com/universelabs/universe/stargazers)
+- Follow [@universelabs](https://twitter.com/universelabs) on Twitter.
+- Join the official Universe [Slack](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE).
+
+
+## Maintainers
+
+**Guy Lepage**
+- <https://twitter.com/guylepage3>
+- <https://github.com/guylepage3>
+
+**Charlotte Pan**
+
+- <https://twitter.com/pftchal>
+- <https://github.com/pftchal>
+
+**Modestos Kaffes**
+
+- <https://twitter.com/modkaffes>
+- <https://github.com/modkaffes>
+
+
+## License
+
+By contributing your code, you agree to license your contribution under the [
+MIT License](LICENSE).
+
+<div align="right">
+  <a href="https://opensource.guide/how-to-contribute/#why-contribute-to-open-source">
+    <img src="https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/" alt="Open Source">
+  </a>
+</div>
 
 
 
