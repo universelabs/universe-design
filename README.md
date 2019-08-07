@@ -43,6 +43,12 @@
 
 <br/>
 
+Universe Design is an open source design cooperative led by designers, developers, writers and enthusiasts of the Universe community and decentralized internet movement. We are working hard at building a more open and beautiful internet in a collaborative manner.
+
+Universe has members who are contributors to the [Open Source Design](https://github.com/opensourcedesign) community.
+
+Join us in the journey by becoming a design contributor
+
 
 ## Table of contents
 
