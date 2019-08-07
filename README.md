@@ -73,3 +73,9 @@ $ git lfs install
 ```
 
 Visit the [Getting started](/docs/getting-started.md) page for detailed instructions on how to install and use Git LFS.
+
+
+## Status
+
+[![Slack](https://img.shields.io/badge/Community-Join_the_Slack!-purple.svg?colorA=212121&colorB=3f46ad)](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE)
+[![Universe Open Source Design](https://img.shields.io/badge/Universe_Open_Source_Design-Process-purple.svg?colorA=212121&colorB=3f46ad)](https://github.com/universelabs/universe-design/blob/master/docs/open-source-design.md)
