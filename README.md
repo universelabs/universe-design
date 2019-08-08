@@ -8,15 +8,15 @@
     </a>
   </p>
   <p>
-    <a href="https://github.com/universelabs/universe/blob/master/CONTRIBUTING.md" alt="Contribute (Universe)">
+    <a href="https://github.com/universelabs/universe/blob/master/CONTRIBUTING.md" alt="Contribute">
       Contribute
     </a>
     &nbsp;&middot;&nbsp;
-    <a href="https://github.com/universelabs/universe-design/blob/master/docs/brand-assets.md" alt="Brand assets (Universe)">
+    <a href="https://github.com/universelabs/universe-design/tree/master/logo" alt="Universe Brand assets">
       Brand assets
     </a>
     &nbsp;&middot;&nbsp;
-    <a href="https://github.com/universelabs/universe-design/issues/new?assignees=&labels=&template=custom.md" alt="Design issue or idea (Universe Design)">
+    <a href="https://github.com/universelabs/universe-design/issues/new?assignees=&labels=&template=custom.md" alt="Design issue or idea?">
       Design issue or idea
     </a>
     &nbsp;&middot;&nbsp;
@@ -78,7 +78,7 @@ Visit the [Getting started](/docs/getting-started.md) page for detailed instruct
 [![Repository Size](https://img.shields.io/github/repo-size/universelabs/universe-design.svg?label=Repository+Size&colorA=%23212121&colorB=%23007BFF)](https://github.com/universelabs/universe-design)
 
 
-## Frameworks & ibraries
+## Frameworks & libraries
 
 ### Meta
 Currently Meta focuses on simplifying and making typography easier for developers to design effective content. It also comes with a broad range color system to take away the pain of choosing colors.
