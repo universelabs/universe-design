@@ -50,7 +50,7 @@ Join us in the journey by becoming a design contributor
 - [Quick start](#quick-start)
 - [Status](#status)
 - [Getting started](/docs/getting-started.md)
-- [Frameworks & libraries](#frameworks-libraries)
+- [Frameworks & libraries](#frameworks--libraries)
 - [Contributing](#contributing)
 - [Roadmap](#roadmap)
 - [Community](#community)
