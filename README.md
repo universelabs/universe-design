@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Universe Design</h3>
   <p>
-    Universe is a key management solution for decentralized platforms.
+    Universe Design is an open source design cooperative.
     <br/>
     <a href="https://universe.engineering">
       <strong>universe.engineering</strong>
@@ -20,7 +20,7 @@
       Design issue or idea
     </a>
     &nbsp;&middot;&nbsp;
-    <a href="https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE">
+    <a href="https://join.slack.com/t/universelabs/shared_invite/enQtNjA2MjM1NjAyNzI0LTUyYWZjM2I5M2VhMTU3YTY3ZGI0YTAwNDQwN2I1Mzc4Yjk3YTg2Y2IxOGMyMDljOTdkM2Y4NTM3ZTAwYzc3NTg">
       Slack
     </a>
     <br/>
@@ -44,7 +44,6 @@ Universe has members who are contributors to the [Open Source Design](https://gi
 
 Join us in the journey by becoming a design contributor
 
-
 ## Table of contents
 
 - [Quick start](#quick-start)
@@ -57,7 +56,6 @@ Join us in the journey by becoming a design contributor
 - [Maintainers](#maintainers)
 - [License](#license)
 
-
 ## Quick start
 
 Install Git LFS
@@ -68,15 +66,13 @@ $ git lfs install
 
 Visit the [Getting started](/docs/getting-started.md) page for detailed instructions on how to install and use Git LFS.
 
-
 ## Status
 
-[![Slack](https://img.shields.io/badge/Community-Join_the_Slack!-purple.svg?colorA=212121&colorB=3f46ad)](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE)
+[![Slack](https://img.shields.io/badge/Community-Join_the_Slack!-purple.svg?colorA=212121&colorB=3f46ad)](https://join.slack.com/t/universelabs/shared_invite/enQtNjA2MjM1NjAyNzI0LTUyYWZjM2I5M2VhMTU3YTY3ZGI0YTAwNDQwN2I1Mzc4Yjk3YTg2Y2IxOGMyMDljOTdkM2Y4NTM3ZTAwYzc3NTg)
 [![Universe Open Source Design](https://img.shields.io/badge/Universe_Open_Source_Design-Process-blue.svg?colorA=212121&colorB=007BFF)](https://github.com/universelabs/universe-design/blob/master/docs/open-source-design.md)
 [![Universe Brand](https://img.shields.io/badge/Universe_Brand-v2.1.1-blue.svg?colorA=212121&colorB=007BFF)](https://github.com/universelabs/universe-design/tree/master/brand)
 [![Universe Logo](https://img.shields.io/badge/Universe_Logo-v2.0.0-blue.svg?colorA=212121&colorB=007BFF)](https://github.com/universelabs/universe-design/tree/master/logo)
 [![Repository Size](https://img.shields.io/github/repo-size/universelabs/universe-design.svg?label=Repository+Size&colorA=%23212121&colorB=%23007BFF)](https://github.com/universelabs/universe-design)
-
 
 ## Frameworks & libraries
 
@@ -97,7 +93,6 @@ Currently Meta focuses on simplifying and making typography easier for developer
 
 › For detailed instructions on UX Flow, visit the [UX Flow GitHub Repository](https://github.com/universelabs/ux-flow).
 
-
 ## Contributing
 
 Please read through our [contributing guidelines](https://github.com/universelabs/universe/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
@@ -105,15 +100,13 @@ Please read through our [contributing guidelines](https://github.com/universelab
 Moreover, if your pull request contains JavaScript patches or features, you
 must include relevant unit tests. All code should conform to the [Code Guidelines](https://github.com/universelabs/universe/blob/master/CONTRIBUTING.md#code-guidelines).
 
-
 ## Roadmap
 
-Universe Labs' mission is to become the largest open source node and key management network.
+Universe Labs' mission is to become the largest decentralized login and decentralized private key recovery protocol.
 
 [› Universe Roadmap](https://github.com/universelabs/universe/blob/master/ROADMAP.md)
 
 View the Universe Roadmap to learn more about project overview, goals, execution to date, milestones, current tech stack, and more...
-
 
 ## Community
 
@@ -122,8 +115,7 @@ Get updates on Universe's development and chat with the project maintainers and 
 - Subscribe to the [Universe Newsletter](http://universe.engineering/subscribe)
 - [Star this repo](https://github.com/universelabs/universe/stargazers)
 - Follow [@universelabs](https://twitter.com/universelabs) on Twitter.
-- Join the official Universe [Slack](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE).
-
+- Join the official Universe [Slack](https://join.slack.com/t/universelabs/shared_invite/enQtNjA2MjM1NjAyNzI0LTUyYWZjM2I5M2VhMTU3YTY3ZGI0YTAwNDQwN2I1Mzc4Yjk3YTg2Y2IxOGMyMDljOTdkM2Y4NTM3ZTAwYzc3NTg).
 
 ## Maintainers
 
@@ -132,15 +124,8 @@ Get updates on Universe's development and chat with the project maintainers and 
 - <https://github.com/guylepage3>
 
 **Charlotte Pan**
-
 - <https://twitter.com/pftchal>
 - <https://github.com/pftchal>
-
-**Modestos Kaffes**
-
-- <https://twitter.com/modkaffes>
-- <https://github.com/modkaffes>
-
 
 ## License
 
