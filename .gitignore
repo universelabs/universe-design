@@ -1,29 +1,9 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
-# support files
-
-brand/support
-
-events/09-19-fintium-fintech-challenge/local
-
-logo/support
-
-illustrations/local
-
-meta/support
-meta/brand/support
-meta/icons/support
-meta/logo/support
-meta/meta-flow-diagram/support
-meta/meta-ui-sketch-library/support
-meta/social/support
-
+# Support and design inspiration files
+brand/support-hidden
+events/09-19-fintium-fintech-challenge/support-hidden
+illustrations/support-hidden
 newsletter/local
-
 social/support
-
-templates/support
-
-universe.engineering/support
-
-ux-flow/support
+universe.engineering/support-hidden
